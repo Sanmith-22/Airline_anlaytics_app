@@ -119,6 +119,6 @@ Dark/Light theme toggle
 
 Airline logos and icons in sidebar
 👨‍💻 Author
-Sanmith Tejaswini
+Sanmith Vihaan M
 📧 Developed as part of a Data Analytics & GUI Development project.
 ✨ “Turning data into decisions — with code, clarity, and creativity.”
